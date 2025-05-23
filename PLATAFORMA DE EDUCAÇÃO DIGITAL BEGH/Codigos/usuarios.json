@@ -1,0 +1,114 @@
+[
+    {
+        "nome": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64",
+        "idade": "14",
+        "senha": "$2b$12$nTRgr46udU5CqB2kbIOXeeSjI5onIiqoiqo9kgUT5SyNw.n6MNLwW",
+        "email": "abc@gmail.com",
+        "boletim": {
+            "lógica de programação": 7.5,
+            "tecnologia da informação e comunicação": 5.0,
+            "segurança digital": 5.0
+        }
+    },
+    {
+        "nome": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2",
+        "idade": "19",
+        "senha": "$2b$12$DKqbBmFO.qE4D7QbpfQ9ReahKal5yZGb37LqLNw6jTe9DWM.in0be",
+        "email": "abc12@gmail.com",
+        "boletim": {
+            "lógica de programação": 10.0,
+            "segurança digital": 7.5,
+            "tecnologia da informação e comunicação": 10.0
+        }
+    },
+    {
+        "nome": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648",
+        "idade": "16",
+        "senha": "$2b$12$P/.r5XVcykJeDYVlhxsrq.pJqp7fVOMtuPo/y7LnvGtBVDoJPlN/.",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "lógica de programação": 5.0,
+            "tecnologia da informação e comunicação": 7.5
+        }
+    },
+    {
+        "nome": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a",
+        "idade": "17",
+        "senha": "$2b$12$juwKS0NBhjX6h6daBkfqhOFd3G9rz43YSU8yi2ER123DurtFXRFqu",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "lógica de programação": 7.5,
+            "tecnologia da informação e comunicação": 5.0,
+            "segurança digital": 7.5
+        }
+    },
+    {
+        "nome": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681",
+        "idade": "17",
+        "senha": "$2b$12$UElZqqu849gS0nnmlXyfD.AdZAQRzrlEy9RqHpv7gfAXvdDPwHq9y",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "lógica de programação": 7.5,
+            "tecnologia da informação e comunicação": 7.5,
+            "segurança digital": 5.0
+        }
+    },
+    {
+        "nome": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65",
+        "idade": "19",
+        "senha": "$2b$12$4LF2bVihoHti1JDRCWlSQ..o.frj/GkEBNY3DlwEQaXFBVkR9pYim",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "tecnologia da informação e comunicação": 7.5,
+            "lógica de programação": 5.0,
+            "segurança digital": 7.5
+        }
+    },
+    {
+        "nome": "a2ed402cb689c06c7213d8ac193c8d0d703328b28977a19c042eb73d4eaab4b1",
+        "idade": "15",
+        "senha": "$2b$12$/l0e95JZL9OM8djVJoHgLeRE9IjkxB5Zgtq91LFrkVYWmENHIJxW2",
+        "email": "abcd2@gmail.com",
+        "boletim": {}
+    },
+    {
+        "nome": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85",
+        "idade": "18",
+        "senha": "$2b$12$764RluN452sdUYx.lv0AX.V0eWKOy8/GP7QW26j0xXNjbCfNV6usu",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "lógica de programação": 5.0,
+            "segurança digital": 7.5,
+            "tecnologia da informação e comunicação": 5.0
+        }
+    },
+    {
+        "nome": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac",
+        "idade": "16",
+        "senha": "$2b$12$LFKXWLfWKNPK5exMH6Z1y.iwoXbvmxEKKy723fFRmNiim.XvIQ03O",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "lógica de programação": 5.0,
+            "segurança digital": 5.0,
+            "tecnologia da informação e comunicação": 10.0
+        }
+    },
+    {
+        "nome": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1",
+        "idade": "17",
+        "senha": "$2b$12$iQL81QuxDOl62wLawXu5NubnKZcGMvtI5r.8UsA8bHsoYY3JOA0g2",
+        "email": "abcd2@gmail.com",
+        "boletim": {
+            "lógica de programação": 7.5,
+            "tecnologia da informação e comunicação": 5.0,
+            "segurança digital": 7.5
+        }
+    },
+    {
+        "nome": "691b9d608107dbf099448d39ff28ac6320589040db1d6040d4a59c7aa67780d9",
+        "idade": "18",
+        "email": "geovane1@gmail.com",
+        "senha": "$2b$12$mwYu3Y4J8Nc9G/EGiroX1eYSM7fDpah2b7tt8kB3lE7NBeKKDZauy",
+        "boletim": {}
+    }
+]

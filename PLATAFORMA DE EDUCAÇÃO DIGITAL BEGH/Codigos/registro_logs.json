@@ -1,0 +1,1094 @@
+[
+    {
+        "data e hora": "2025-05-22 13:19:18",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:19:35",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:26:07",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [lógica de programação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:31:17",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [tecnologia da informação e comunicação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:36:45",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [segurança digital]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:36:47",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:37:48",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:37:48",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 7.5",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:37:52",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:40:29",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:40:30",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 5.0",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:40:32",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:42:40",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:42:40",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 5.0",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:42:46",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 13:43:07",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-22 14:07:06",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:07:17",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:07:31",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:013:46",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [lógica de programação]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:17:52",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [tecnologia da informação e comunicação]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:22:16",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [segurança digital]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:22:18",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:25:21",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:25:21",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 10.0",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:25:23",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:29:59",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:29:59",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 10.0",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 14:30:02",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "ce33e3c1c937da4a5e494311e1ef68226293e668877f0a5c40978e15293a87a2"
+    },
+    {
+        "data e hora": "2025-05-22 15:15:13",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:16:02",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:19:14",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [lógica de programação]",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:22:13",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [tecnologia da informação e comunicação]",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:23:04",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:25:20",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:25:20",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 5.0",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:29:24",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:32:51",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 15:35:51",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 7.5",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-22 16:24:58",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-23 08:43:27",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:43:38",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:01",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [lógica de programação]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:09",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [tecnologia da informação e comunicação]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:20",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [segurança digital]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:27",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:37",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:37",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 7.5",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:44:58",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:45:09",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:45:09",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 5.0",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:45:19",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:45:32",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:45:32",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 7.5",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:50:21",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:50:25",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 08:51:18",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:51:29",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:51:57",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [lógica de programação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:52:02",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [tecnologia da informação e comunicação]",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:52:38",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:52:48",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:52:50",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:53:04",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:53:19",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 08:53:57",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:02",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:12",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:26",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:26",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 7.5",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:30",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:47",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:47",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 7.5",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:54:50",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:55:20",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:55:20",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 5.0",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:55:33",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:55:43",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 08:56:13",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:57:40",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:58:03",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [lógica de programação]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:58:10",
+        "tipo_evento": "ACESSO_AULA",
+        "descricao": "Usuário acessou conteúdo da aula: [segurança digital]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:58:18",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:58:33",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 08:58:33",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 7.5",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:00:33",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:00:40",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:00:40",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 5.0",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:00:45",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:01:08",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:01:08",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 7.5",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:01:17",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:01:20",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:03:13",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "a2ed402cb689c06c7213d8ac193c8d0d703328b28977a19c042eb73d4eaab4b1"
+    },
+    {
+        "data e hora": "2025-05-23 09:03:26",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:03:28",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:04:36",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:09:22",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:09:36",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:09:47",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:11:57",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:12:04",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:12:04",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 5.0",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:13:34",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:00",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:00",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 7.5",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:06",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:14",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:14",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 5.0",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:21",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:25",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:38",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:41",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:14:58",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "a2ed402cb689c06c7213d8ac193c8d0d703328b28977a19c042eb73d4eaab4b1"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:02",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "a2ed402cb689c06c7213d8ac193c8d0d703328b28977a19c042eb73d4eaab4b1"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:13",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:17",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "bb84f85cfceb67a4372903f1c75baf4abd1e86f6db67084e2154fb842105f648"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:32",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:35",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "1640f15823c526835bad8a47b898fc9a2c1d3de716730eb95e105862ae924a85"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:50",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 09:15:53",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "3ce182c5fb663ad1cee1acd0ca8a3cd69a143333787dba99c4692ea596aa976a"
+    },
+    {
+        "data e hora": "2025-05-23 09:16:09",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 09:16:14",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "8248c429c0aa8e4ad9cd21e59fbb6920f88b01f9284c9d16e8a820720f973681"
+    },
+    {
+        "data e hora": "2025-05-23 09:16:24",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:16:28",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:16:46",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:22:40",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:22:56",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:23:10",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:23:15",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "db3231c57bd1019f774558b6d3a1eeb12c2fbce8954bc3af9aac9b60d9e1eb65"
+    },
+    {
+        "data e hora": "2025-05-23 09:24:05",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:24:15",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:24:34",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 09:24:54",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:25:01",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:25:44",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:25:51",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:26:21",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:26:21",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 5.0",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:26:27",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:26:37",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:26:37",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 5.0",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:26:42",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:27:04",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:27:04",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 10.0",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:27:16",
+        "tipo_evento": "BOLETIM_VISUALIZADO",
+        "descricao": "Usuário visualizou seu boletim de notas",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:27:19",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "8527727056d23b91084058795f4619f6ec6eacc510f469bb78519bfe4c8b86ac"
+    },
+    {
+        "data e hora": "2025-05-23 09:27:51",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:28:24",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:28:48",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:28:54",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [lógica de programação]",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:04",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [lógica de programação]",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:04",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [lógica de programação] registrada: 7.5",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:08",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:17",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [tecnologia da informação e comunicação]",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:17",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [tecnologia da informação e comunicação] registrada: 5.0",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:21",
+        "tipo_evento": "PROVA_INICIADA",
+        "descricao": "Usuário iniciou prova de: [segurança digital]",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:36",
+        "tipo_evento": "PROVA_CONCLUIDA",
+        "descricao": "Usuário concluiu prova de: [segurança digital]",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 09:29:36",
+        "tipo_evento": "NOTA_REGISTRADA",
+        "descricao": "Nota de prova de [segurança digital] registrada: 7.5",
+        "usuario_hash": "838b25c7edd41c93219178b8955bd0db2679b1ae9645b5cd9016283aaf93a1a1"
+    },
+    {
+        "data e hora": "2025-05-23 12:02:46",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:02:51",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=Ng6yiGqGk6o",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:03:04",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=XjX1bAybYYY",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:03:15",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=sJ_MAMYRiVc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:03:27",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=WLJJEHU4nGY",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:03:42",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=8isc7G2UNTc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:04:01",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=8isc7G2UNTc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:07:37",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=Ng6yiGqGk6o",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:07:58",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=XjX1bAybYYY",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:08:14",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=sJ_MAMYRiVc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:08:24",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=WLJJEHU4nGY",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:08:41",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=8isc7G2UNTc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:08:56",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=8isc7G2UNTc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:10:32",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:10:42",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:10:50",
+        "tipo_evento": "ACESSO_MATERIAL_COMPLEMENTAR",
+        "descricao": "URL: https://www.youtube.com/watch?v=8isc7G2UNTc",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 12:11:33",
+        "tipo_evento": "SESSAO_ENCERRADA",
+        "descricao": "Usuário fez logout",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 14:13:27",
+        "tipo_evento": "CONTA_CRIADA",
+        "descricao": "Novo usuário cadastrado",
+        "usuario_hash": "691b9d608107dbf099448d39ff28ac6320589040db1d6040d4a59c7aa67780d9"
+    },
+    {
+        "data e hora": "2025-05-23 14:13:40",
+        "tipo_evento": "AUTENTICACAO_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "d2c6ab6d6a2f2126b575e0941d2ee7ae2330a0f2f3621fe04617b619f084ea64"
+    },
+    {
+        "data e hora": "2025-05-23 14:13:50",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "691b9d608107dbf099448d39ff28ac6320589040db1d6040d4a59c7aa67780d9"
+    },
+    {
+        "data e hora": "2025-05-23 14:14:04",
+        "tipo_evento": "CONTA_EXCLUIDA_FALHA",
+        "descricao": "Credenciais inválidas",
+        "usuario_hash": "691b9d608107dbf099448d39ff28ac6320589040db1d6040d4a59c7aa67780d9"
+    },
+    {
+        "data e hora": "2025-05-23 14:15:20",
+        "tipo_evento": "AUTENTICACAO_ENTRADA",
+        "descricao": "Login bem-sucedido",
+        "usuario_hash": "691b9d608107dbf099448d39ff28ac6320589040db1d6040d4a59c7aa67780d9"
+    },
+    {
+        "data e hora": "2025-05-23 14:16:15",
+        "tipo_evento": "SENHA_ALTERADA",
+        "descricao": "Senha alterada com sucesso",
+        "usuario_hash": "691b9d608107dbf099448d39ff28ac6320589040db1d6040d4a59c7aa67780d9"
+    }
+]
